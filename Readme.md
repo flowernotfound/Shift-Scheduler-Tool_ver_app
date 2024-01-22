@@ -54,10 +54,6 @@ This document outlines the specifications for the development of a Shift Schedul
 
 - **Data Protection**: Implement a process to ensure the safe handling and storage of CSV data.
 
-## Support and Maintenance
-
-- **Documentation**: Provide a user guide and troubleshooting documentation.
-- **Error Handling**: Offer detailed error messages within the script to aid user understanding of issues.
 
 for jp
 
@@ -114,9 +110,4 @@ for jp
 
 ## セキュリティ
 
-- **データ保護**: CSVデータの安全な取り扱いと保管のプロセスを実装します。
-
-## サポートとメンテナンス
-
-- **ドキュメント**: ユーザーガイドとトラブルシューティングのドキュメントを提供します。
-- **エラーハンドリング**: スクリプト内で詳細なエラーメッセージを提供し、ユーザーが問題を理解できるようにします。
+- **データ保護**: CSVデータの安全な取り扱いと保管を実装。
